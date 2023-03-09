@@ -1,0 +1,77 @@
+_repo: A-Yankee-in-Canada-with-Anti-slavery-and-reform-papers_70123
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Emerson, Ralph Waldo
+    aliases:
+    - Emerson, R. W. (Ralph Waldo)
+    - Emerson, R. Waldo (Ralph Waldo)
+    - Emerson, Waldo
+    birthdate: 1803
+    deathdate: 1882
+    gutenberg_agent_id: '1071'
+    url: http://www.gutenberg.org/2009/agents/1071
+    wikipedia: https://en.wikipedia.org/wiki/Ralph_Waldo_Emerson
+creator:
+  author:
+    agent_name: Thoreau, Henry David
+    alias: Thoreau, Henry D. (Henry David)
+    birthdate: 1817
+    deathdate: 1862
+    gutenberg_agent_id: '54'
+    url: http://www.gutenberg.org/2009/agents/54
+    wikipedia: https://en.wikipedia.org/wiki/Henry_David_Thoreau
+  editors:
+  - agent_name: Channing, William Ellery
+    alias: Channing, Ellery
+    birthdate: 1817
+    deathdate: 1901
+    gutenberg_agent_id: '55592'
+    url: http://www.gutenberg.org/2009/agents/55592
+    wikipedia: https://en.wikipedia.org/wiki/William_Ellery_Channing_(poet)
+  - agent_name: Thoreau, Sophia E.
+    alias: Thoreau, Sophia Elizabeth
+    birthdate: 1819
+    deathdate: 1876
+    gutenberg_agent_id: '55581'
+    url: http://www.gutenberg.org/2009/agents/55581
+    wikipedia: https://en.wikipedia.org/wiki/Sophia_Thoreau
+description: '"Prayers" was attributed to Thoreau by mistake, only a prayer in verse
+  included being his. The essay itself, first published in the Dial, is by Emerson
+  and is now published in his Natural history of the intellect.
+
+  The first three chapters appeared in Putnam''s magazine 1853 under the title of
+  "Excursion to Canada".
+
+  First edition, edited by Sophia Thoreau and W. E. Channing.'
+gutenberg_issued: '2023-02-23'
+identifiers:
+  gutenberg: '70123'
+  lccn: '07017111'
+language: en
+pgterms:marc904: https://archive.org/details/yankeeincanadawi00thor/page/n1/mode/2up
+pgterms:marc905: 20211031134547thoreau
+pgterms:marc906: '1866'
+pgterms:marc907: US
+production_note: Charlene Taylor, Barry Abrahamsen, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aUnited States :$bTicknor and Fields, $c1866.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Brown, John, 1800-1859'
+- !lcsh 'Slavery -- United States'
+- !lcsh 'Québec (Province) -- Description and travel'
+- !lcc 'E300'
+- !lcc 'F1001'
+- GITenberg
+tableOfContents: 'A Yankee in Canada: Concord to Montreal. Quebec and Montmorenci.
+  St. Anne. The walls of Quebec. The scenery of Quebec; and the River St. Lawrence
+  -- Anti-slavery and reform papers: Slavery in Massachusetts. Prayers. Civil disobedience.
+  A plea for Captain John Brown. Paradise (to be) regained. Herald of freedom. Thomas
+  Carlyle and his works. Life without principle. Wendell Phillips before the Concord
+  Lyceum. The last days of John Brown.'
+title: A Yankee in Canada, with Anti-slavery and reform papers.
+url: http://www.gutenberg.org/ebooks/70123
