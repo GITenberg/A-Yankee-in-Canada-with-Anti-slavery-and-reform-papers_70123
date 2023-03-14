@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '1071'
     url: http://www.gutenberg.org/2009/agents/1071
     wikipedia: https://en.wikipedia.org/wiki/Ralph_Waldo_Emerson
+covers:
+- cover_type: archival
+  image_path: 70123-h/images/cover.jpg
 creator:
   author:
     agent_name: Thoreau, Henry David
@@ -44,6 +47,8 @@ description: '"Prayers" was attributed to Thoreau by mistake, only a prayer in v
   "Excursion to Canada".
 
   First edition, edited by Sophia Thoreau and W. E. Channing.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70123#A-Yankee-in-Canada-with-Anti-slavery-and-reform-papers
 gutenberg_issued: '2023-02-23'
 identifiers:
   gutenberg: '70123'
